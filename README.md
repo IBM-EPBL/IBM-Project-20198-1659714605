@@ -4,7 +4,7 @@ Inventory Managment System for Retailers
 Software Required:
 Python, Flask , Docker System Required: 8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
 
-Project Discription
+Project Description:
 Retail inventory management is the process of ensuring you carry merchandise that shoppers want, with neither too little nor too much on hand.
 By managing inventory, retailers meet customer demand without running out of stock or carrying excess supply. 
 In practice, effective retail inventory management results in lower costs and a better understanding of sales patterns.
