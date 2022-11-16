@@ -1,0 +1,30 @@
+<!doctype html>
+	<html>
+	   <body>
+	
+	    <a href="/"><button >home</button></a>
+	    <br><hr>
+	
+	    {{ msg }}
+	
+	      <table border = 2>
+	         <thead>
+	            <td>Username</td>
+	            <td>Password</td>
+	            <td>Email</td>
+	            
+	         </thead>
+	         
+	         {% for row in students %}
+	            <tr>
+	               <td> {{ row["sumitha"]}}</td>
+	               <td>{{row["Password"]}}</td>
+	               <td>{{row["Email"]}}</td>
+	              	
+	            </tr>
+	         {% endfor %}
+	      </table>
+	     
+	
+	   </body>
+	</html>
